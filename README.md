@@ -182,7 +182,7 @@ Lalu pada bagian navbar terdapat elemen ```navbar-expand-lg``` yang dimana navba
 
   * ```<textarea>```  untuk menulis pesan atau komentar. dilengkapi label dan ```placeholder``` agar pengguna tahu fungsi kolom ini.
 
-  * ```<button type="submit" class="btn btn-primary">kirim</button>``` tombol ini akan mengirim data form ktika ditekan dengan gaya tombol baru khas Bootstrap.
+  * ```<button type="submit" class="btn btn-primary">kirim</button>``` tombol ini akan mengirim data form ketika ditekan dengan gaya tombol baru khas Bootstrap.
 
 
  Berikut hasil pada Browser 
