@@ -219,7 +219,7 @@ Lalu pada bagian navbar terdapat elemen ```navbar-expand-lg``` yang dimana navba
     </div>
     <div class="col-md-8">
       <h2>Adinda Aulia Nabila Putri</h2>
-      <p>Hai saya Adinda Aulia Nabila Putri Mahasiswa Teknik Informatika yang memiliki keterarikan dengan dunia teknologi.</p>
+      <p>Hai saya Adinda Aulia Nabila Putri Mahasiswa Teknik Informatika yang memiliki ketertarikan dengan dunia teknologi.</p>
     </div>
   </div>
 </div>
